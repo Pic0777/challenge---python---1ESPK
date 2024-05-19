@@ -27,7 +27,7 @@ Cada corrida é influenciada por condições climáticas aleatórias (Ensolarado
 
 ## Exemplo de uso
 
-BEM-VINDO AO NOSSO JOGO DE APOSTAS!!!!!
+<p>BEM-VINDO AO NOSSO JOGO DE APOSTAS!!!!!</p>
 Durante a corrida de hoje o clima está: Chuvoso
 O clima desfavoreceu a equipe: ABT CUPRA FORMULA E TEAM
 O clima favoreceu a equipe: ERT FORMULA E TEAM
@@ -45,7 +45,7 @@ DAN TICKTUM - ERT FORMULA E TEAM
 Em qual piloto você deseja apostar?: DAN TICKTUM
 Quanto você deseja apostar?: 100
 
-Volta 1/10 
+<p>Volta 1/10</p> 
 LUCAS DI GRASSI completou a volta em 37.50 segundos, velocidade do piloto: 190 km/h 
 ROBIN FRIJNS completou a volta em 32.14 segundos, velocidade do piloto: 222 km/h 
 DAN TICKTUM completou a volta em 30.65 segundos, velocidade do piloto: 233 km/h 
