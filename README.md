@@ -49,7 +49,8 @@ Quanto você deseja apostar?: 100
 LUCAS DI GRASSI completou a volta em 37.50 segundos, velocidade do piloto: 190 km/h
 ROBIN FRIJNS completou a volta em 32.14 segundos, velocidade do piloto: 222 km/h
 DAN TICKTUM completou a volta em 30.65 segundos, velocidade do piloto: 233 km/h
------------------------------------------------------------
+//////////////////////////////////////////////////////////////////////////////////
+...
 
 RESULTADO FINAL:
 LUCAS DI GRASSI teve uma média de 36.80 segundos por volta.
