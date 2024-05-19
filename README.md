@@ -1,6 +1,6 @@
 <h1> SIMULADOR DE APOSTAS - FORMULA E </h1>
 
-##Colaboradores
+## Colaboradores
 Lucca Saraiva Borges - RM: 554608
 Pietro Vitor Pezzente - RM: 557283
 
