@@ -28,9 +28,9 @@ Cada corrida é influenciada por condições climáticas aleatórias (Ensolarado
 ## Exemplo de uso
 
 <p>BEM-VINDO AO NOSSO JOGO DE APOSTAS!!!!!</p>
-Durante a corrida de hoje o clima está: Chuvoso
-O clima desfavoreceu a equipe: ABT CUPRA FORMULA E TEAM
-O clima favoreceu a equipe: ERT FORMULA E TEAM
+<p>Durante a corrida de hoje o clima está: Chuvoso</p>
+<p>O clima desfavoreceu a equipe: ABT CUPRA FORMULA E TEAM</p>
+<p></p>O clima favoreceu a equipe: ERT FORMULA E TEAM</p>
 
 Multiplicadores de vitória:
 LUCAS DI GRASSI (ABT CUPRA FORMULA E TEAM): 2.0X
@@ -56,7 +56,7 @@ LUCAS DI GRASSI teve uma média de 36.80 segundos por volta.
 ROBIN FRIJNS teve uma média de 32.40 segundos por volta.
 DAN TICKTUM teve uma média de 30.75 segundos por volta.
 
-O vencedor é DAN TICKTUM com a menor média de tempo por volta!
+<p>O vencedor é DAN TICKTUM com a menor média de tempo por volta!</p>
 Parabéns! Você apostou no vencedor DAN TICKTUM!
 Seu prêmio é: R$120.00 (Multiplicador: 1.2X)
 
