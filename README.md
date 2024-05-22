@@ -56,6 +56,7 @@ Este é um jogo de apostas de corrida de carros, onde você pode apostar em um d
 
 Certifique-se de ler as instruções e mensagens exibidas durante o jogo para entender completamente como jogar e desfrutar da experiência. Boa sorte e divirta-se!
 
+
 ## Estrutura do Código
 
 ```python
@@ -197,3 +198,58 @@ if piloto_apostado == vencedor:
 else:
     print(f"Você apostou em {piloto_apostado}, mas o vencedor foi {vencedor}.")
     print("Infelizmente, você perdeu sua aposta.")
+```
+
+## Exemplo de uso
+
+```plaintext
+BEM-VINDO AO NOSSO JOGO DE APOSTAS!!!!!
+
+Durante a corrida de hoje o clima está: Chuvoso
+
+O clima desfavoreceu a equipe: ABT CUPRA FORMULA E TEAM
+O clima favoreceu a equipe: ERT FORMULA E TEAM
+
+Multiplicadores de vitória:
+LUCAS DI GRASSI (ABT CUPRA FORMULA E TEAM): 2.0X
+ROBIN FRIJNS (ENVISION RACING): 1.5X
+DAN TICKTUM (ERT FORMULA E TEAM): 1.2X
+
+Pilotos disponíveis para aposta:
+LUCAS DI GRASSI - ABT CUPRA FORMULA E TEAM
+ROBIN FRIJNS - ENVISION RACING
+DAN TICKTUM - ERT FORMULA E TEAM
+
+Em qual piloto você deseja apostar?: DAN TICKTUM
+Quanto você deseja apostar?: 100
+
+Volta 1/10
+LUCAS DI GRASSI completou a volta em 37.50 segundos, velocidade do piloto: 190 km/h
+ROBIN FRIJNS completou a volta em 32.14 segundos, velocidade do piloto: 222 km/h
+DAN TICKTUM completou a volta em 30.65 segundos, velocidade do piloto: 233 km/h
+
+Volta 2/10
+LUCAS DI GRASSI completou a volta em 35.30 segundos, velocidade do piloto: 200 km/h
+ROBIN FRIJNS completou a volta em 33.25 segundos, velocidade do piloto: 215 km/h
+DAN TICKTUM completou a volta em 31.45 segundos, velocidade do piloto: 228 km/h
+
+...
+
+Volta 10/10
+LUCAS DI GRASSI completou a volta em 34.85 segundos, velocidade do piloto: 202 km/h
+ROBIN FRIJNS completou a volta em 32.70 segundos, velocidade do piloto: 219 km/h
+DAN TICKTUM completou a volta em 30.90 segundos, velocidade do piloto: 232 km/h
+
+RESULTADO FINAL:
+LUCAS DI GRASSI teve uma média de 36.80 segundos por volta.
+ROBIN FRIJNS teve uma média de 32.40 segundos por volta.
+DAN TICKTUM teve uma média de 30.75 segundos por volta.
+
+O vencedor é DAN TICKTUM com a menor média de tempo por volta!
+
+Parabéns! Você apostou no vencedor DAN TICKTUM!
+Seu prêmio é: R$120.00 (Multiplicador: 1.2X)
+
+```
+
+
