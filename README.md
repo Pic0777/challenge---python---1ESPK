@@ -25,9 +25,10 @@ Cada corrida é influenciada por condições climáticas aleatórias (Ensolarado
 
 - Python 3.x
 
-## Exemplo de uso
+## Exemplos de uso
 
 BEM-VINDO AO NOSSO JOGO DE APOSTAS!!!!!
+
 Durante a corrida de hoje o clima está: Chuvoso
 O clima desfavoreceu a equipe: ABT CUPRA FORMULA E TEAM
 O clima favoreceu a equipe: ERT FORMULA E TEAM
@@ -45,12 +46,22 @@ DAN TICKTUM - ERT FORMULA E TEAM
 Em qual piloto você deseja apostar?: DAN TICKTUM
 Quanto você deseja apostar?: 100
 
- Volta 1/10
+Volta 1/10
 LUCAS DI GRASSI completou a volta em 37.50 segundos, velocidade do piloto: 190 km/h
 ROBIN FRIJNS completou a volta em 32.14 segundos, velocidade do piloto: 222 km/h
 DAN TICKTUM completou a volta em 30.65 segundos, velocidade do piloto: 233 km/h
-//////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+Volta 2/10
+LUCAS DI GRASSI completou a volta em 37.00 segundos, velocidade do piloto: 192 km/h
+ROBIN FRIJNS completou a volta em 32.00 segundos, velocidade do piloto: 223 km/h
+DAN TICKTUM completou a volta em 30.50 segundos, velocidade do piloto: 234 km/h
+/////////////////////////////////////////////////////////////////////////////////
 ...
+Volta 10/10
+LUCAS DI GRASSI completou a volta em 37.10 segundos, velocidade do piloto: 191 km/h
+ROBIN FRIJNS completou a volta em 32.10 segundos, velocidade do piloto: 221 km/h
+DAN TICKTUM completou a volta em 30.55 segundos, velocidade do piloto: 232 km/h
+/////////////////////////////////////////////////////////////////////////////////
 
 RESULTADO FINAL:
 LUCAS DI GRASSI teve uma média de 36.80 segundos por volta.
@@ -60,6 +71,3 @@ DAN TICKTUM teve uma média de 30.75 segundos por volta.
 O vencedor é DAN TICKTUM com a menor média de tempo por volta!
 Parabéns! Você apostou no vencedor DAN TICKTUM!
 Seu prêmio é: R$120.00 (Multiplicador: 1.2X)
-
-## Estrutura do código
-
